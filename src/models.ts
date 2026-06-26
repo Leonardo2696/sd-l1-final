@@ -14,7 +14,7 @@ async function readPelis() {
   }
 }
 
-readPelis();
+//readPelis();
 
 // no modificar estas propiedades, agregar todas las que quieras
 class Peli {
